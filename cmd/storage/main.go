@@ -5,7 +5,7 @@ import (
 	"log"
 
 	"github.com/google/uuid"
-	"github.com/smallkot/storage/internal/storage"
+	"github.com/smallkot/storage/v2/internal/storage"
 )
 
 func main() {

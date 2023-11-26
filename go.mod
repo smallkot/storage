@@ -1,4 +1,4 @@
-module github.com/smallkot/storage
+module github.com/smallkot/storage/v2
 
 go 1.21.4
 
